@@ -11,6 +11,8 @@ console.log(number3);
 alert("You have received this message because you have been chosen to open an important vault. Here is the secret combination:");
 // DIsplay vault combo alert
 alert("Vault Combination:" + number1 + " - " + number2 + " - " + number3);
+let myname= prompt("Please enter your First and Last Name");
 prompt("Please enter first number");
 prompt("Please enter second number");
 prompt("Please enter third number");
+alert(`Thank you ${myname}. Your combination is 10-40-39`);
