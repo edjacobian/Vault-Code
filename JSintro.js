@@ -11,4 +11,6 @@ console.log(number3);
 alert("You have received this message because you have been chosen to open an important vault. Here is the secret combination:");
 // DIsplay vault combo alert
 alert("Vault Combination:" + number1 + " - " + number2 + " - " + number3);
-
+prompt("Please enter first number");
+prompt("Please enter second number");
+prompt("Please enter third number");
