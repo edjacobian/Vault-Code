@@ -11,6 +11,6 @@ console.log(number1);
 console.log(number2);
 console.log(number3);
 
-
+alert("You have received this message because you have been chosen to open an important vault. Here is the secret combination:");
 alert("Vault Combination:" + number1 + " - " + number2 + " - " + number3);
 
